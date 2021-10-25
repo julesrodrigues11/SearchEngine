@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\jules\source\repos\SearchEngine\SearchEngine\main.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SearchEngine.vcxproj -> C:\Users\jules\source\repos\SearchEngine\Release\SearchEngine.exe

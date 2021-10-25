@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jules\source\repos\SearchEngine\SearchEngine\main.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+  SearchEngine.vcxproj -> C:\Users\jules\source\repos\SearchEngine\Debug\SearchEngine.exe
